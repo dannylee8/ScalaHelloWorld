@@ -2,10 +2,10 @@
 
 1. Open the installed IntelliJ IDE
 2. Click on File -> New -> Project
-![one](image-1.png)
 3. Select 'sbt'. Click Next
-![two](image-2.png)
+![one](image-1.png)
 4. Enter project name as HelloWorld, select JDK version, sbt version and SCala version and click Finish
+![two](image-2.png)
 5. Intellij will take some time to import and extract the project. When it shuts down the sbt server, continue.
 6. Right click the 'HelloWorld' folder and select 'Add Framework Support'
 ![three](image-3.png)
