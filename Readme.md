@@ -8,8 +8,8 @@
 ![two](image-2.png)
 5. Intellij will take some time to import and extract the project. When it shuts down the sbt server, continue.
 6. Right click the 'HelloWorld' folder and select 'Add Framework Support'
-![three](image-3.png)
 7. Checkmark the Scala option and click OK.
+![three](image-3.png)
 8. Expand the HelloWorld folder.
 9.  Expand the 'src' folder.
 10. Expand the 'main' folder.  There will be a 'scala' folder inside main.
